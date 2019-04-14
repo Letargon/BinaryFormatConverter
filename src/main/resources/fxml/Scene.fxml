@@ -20,7 +20,7 @@
       <Label fx:id="zLabel" layoutX="345.0" layoutY="150.0" text="Z" />
       <Label fx:id="qLabel" layoutX="345.0" layoutY="252.0" text="Q" />
       <TextField fx:id="qzField" layoutX="349.0" layoutY="318.0" prefHeight="25.0" prefWidth="61.0" />
-      <Label layoutX="349.0" layoutY="301.0" text="Число знаков после запятой:" />
+      <Label layoutX="349.0" layoutY="301.0" text="Число целых разрядов" />
       <Button layoutX="200.0" layoutY="65.0" mnemonicParsing="false" onAction="#hexHandler" text="Рассчитать" />
       <Button layoutX="200.0" layoutY="175.0" mnemonicParsing="false" onAction="#binHandler" text="Рассчитать" />
       <Button layoutX="200.0" layoutY="276.0" mnemonicParsing="false" onAction="#decHandler" text="Рассчитать" />
